@@ -1,7 +1,6 @@
 import type { TaskCardProps } from "../libs/Todolist";
 
 export default function TaskCard({
-  id,
   title,
   description,
   isDone,
